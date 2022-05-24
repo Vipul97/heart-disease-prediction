@@ -19,6 +19,6 @@ Logistic Regression, KNN Classification, Support Vector Classification and Rando
 |           Logistic Regression | **0.885246** |   0.903226 	| **0.87500** |    **0.888889** 	  |
 |        **KNN Classification** | **0.885246** | **0.962963** |   0.81250   |      0.881356 	    |
 | Support Vector Classification | **0.885246** |   0.931034   |   0.84375   |      0.885246 	    |
-|  Random Forest Classification | **0.885246** |   0.931034   |   0.84375 	|      0.885246 	    |
-|  Decision Tree Classification |   0.852459   |   0.848485   | **0.87500** |	 	   0.861538 	    |
+|  Random Forest Classification | **0.885246** |   0.903226   | **0.87500** |    **0.888889**	    |
+|  Decision Tree Classification |   0.704918   |   0.791667   |   0.59375   |	 	   0.678571 	    |
 |    Naive Bayes Classification |   0.524590   |   0.800000   |   0.12500   | 	   0.216216 	    |
